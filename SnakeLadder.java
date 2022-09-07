@@ -10,7 +10,7 @@ class Player{
             Player P1= new Player();
             System.out.println(P1.current_position);
     
-        }
+          }
            
            
     }
